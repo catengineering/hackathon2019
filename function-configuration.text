@@ -1,0 +1,107 @@
+[
+  {
+    "name": "_maxActiveServers",
+    "value": "100",
+    "slotSetting": false
+  },
+  {
+    "name": "_maxConcurrentConnectionsPerNode",
+    "value": "3",
+    "slotSetting": false
+  },
+  {
+    "name": "_minHealthyServers",
+    "value": "3",
+    "slotSetting": false
+  },
+  {
+    "name": "_scaleByNodeCount",
+    "value": "10",
+    "slotSetting": false
+  },
+  {
+    "name": "_scalesetName",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "appGwName",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "APPINSIGHTS_INSTRUMENTATIONKEY",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "AzureWebJobsStorage",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "cleanUpEvery",
+    "value": "4",
+    "slotSetting": false
+  },
+  {
+    "name": "clientID",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "clientSecret",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "FUNCTIONS_EXTENSION_VERSION",
+    "value": "~2",
+    "slotSetting": false
+  },
+  {
+    "name": "logCustomMetrics",
+    "value": "false",
+    "slotSetting": false
+  },
+  {
+    "name": "resourceGroupName",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "scaleUpEvery",
+    "value": "1",
+    "slotSetting": false
+  },
+  {
+    "name": "scaleUpQuickly",
+    "value": "true",
+    "slotSetting": false
+  },
+  {
+    "name": "scheduleT<oRunFactor",
+    "value": "3",
+    "slotSetting": false
+  },
+  {
+    "name": "subscriptionID",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "tenantID",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING",
+    "value": "<changeme>",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITE_CONTENTSHARE",
+    "value": "<changeme>",
+    "slotSetting": false
+  }
+]
