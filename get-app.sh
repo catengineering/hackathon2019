@@ -5,6 +5,6 @@ ulimit -n 20000
 sleep 5
 
 chmod +x /opt/server
-/opt/server
+/opt/server $1 $2
 
 
